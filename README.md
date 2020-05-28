@@ -1,4 +1,5 @@
 # Kmers-FullGenes
+### Juan Antonio Herrera Conde
 
 # Objetivos
 
